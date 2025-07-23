@@ -14,15 +14,6 @@ Proyek ini bertujuan untuk melestarikan budaya tari Melayu dengan memanfaatkan t
 - **Backend:** Flask (Python)
 - **Frontend:** Next.js (React)
 - **Deployment (jika ada):** Vercel, Heroku, dll.
-
-## 📂 Struktur Proyek
-.
-├── dance-motion-detector-api/ # Server Flask & API
-├── dance-motion-detector/     # Aplikasi Klien Next.js
-├── model/                     # File model .h5 
-├── notebook.ipynb             # Notebook untuk development model
-└── README.md
-
 ## 🚀 Instalasi & Cara Menjalankan
 ### **1. Backend (Flask)**
 ```bash
